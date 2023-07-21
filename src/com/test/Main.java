@@ -5,3 +5,9 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+
+class School{
+    void teacher(){
+        System.out.println("Teaching");
+    }
+}
